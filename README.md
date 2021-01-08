@@ -8,7 +8,7 @@
 
 **Languages and Tools**
 
-<a href="https://reactjs.org">
+<a target="_blank" href="https://reactjs.org">
   <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
 </a>
 <a href="https://reactnative.dev">
